@@ -1,3 +1,3 @@
 # Pravinthiran
 
-(https://leetcard.jacoblin.cool/Pravinthiran?animation=true)
+https://leetcard.jacoblin.cool/Pravinthiran?animation=true
